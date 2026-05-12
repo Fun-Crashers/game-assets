@@ -1,6 +1,6 @@
-# Funcrashers — Game Assets
+# FunCrashers — Game Assets
 
-Official marketing and integration assets for Funcrashers games.
+Official marketing and integration assets for FunCrashers games.
 This repository contains the official **icon** and **banner** of each game,
 ready to be used by authorized partners in their platforms and promotional channels.
 
@@ -49,9 +49,9 @@ and marketing materials following the partnership agreement.
 - Do **not** modify logos, icons or brand elements beyond size/format
   adjustments required for technical integration.
 - Do **not** redistribute these assets outside the scope of an authorized
-  integration with Funcrashers.
+  integration with FunCrashers.
 
-For partnership inquiries or asset requests, contact the Funcrashers team.
+For partnership inquiries or asset requests, contact the FunCrashers team.
 
 ## Adding a new game
 
