@@ -15,6 +15,7 @@ ready to be used by authorized partners in their platforms and promotional chann
 | [`dice-jester`](./dice-jester)       | Dice Jester     | Slot — Jester (Dice) |
 | [`fortune-alchemist`](./fortune-alchemist) | Fortune Alchemist | Slot — Fantasy (Alchemy) |
 | [`goal-spin`](./goal-spin)           | Goal Spin       | Slot — Football (Classic) |
+| [`gold-gnome`](./gold-gnome)         | Gold Gnome      | Slot — Mining (Gold) |
 | [`jester-gems`](./jester-gems)       | Jester Gems     | Slot — Jester (Gems) |
 | [`quantum-goal`](./quantum-goal)     | Quantum Goal    | Slot — Football (Futuristic) |
 | [`race-rush`](./race-rush)           | Race Rush       | Slot — Racing |
@@ -57,6 +58,7 @@ The FunCrashers brand logos live in [`LogoFunCrashers`](./LogoFunCrashers)
 - Formats:
   - **PNG** — master file, full quality, with transparency where applicable.
   - **WebP** — same image and dimensions as the PNG, lighter. Preferred for websites and lobbies.
+  - **GIF** — animated icon, when the game has one (the `.webp` icon is animated too).
   - **SVG** — vector source, when available.
 
 ## For partners
