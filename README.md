@@ -11,11 +11,13 @@ ready to be used by authorized partners in their platforms and promotional chann
 | [`abducted`](./abducted)             | Abducted        | Crash |
 | [`champion-goal`](./champion-goal)   | Champion Goal   | Football |
 | [`chordmaster`](./chordmaster)       | Chordmaster     | Music / Rhythm |
+| [`coffee-fortune`](./coffee-fortune) | Coffee Fortune  | Slot — Coffee Farm |
 | [`dark-jester`](./dark-jester)       | Dark Jester     | Slot — Jester (Dark) |
 | [`dice-jester`](./dice-jester)       | Dice Jester     | Slot — Jester (Dice) |
 | [`fortune-alchemist`](./fortune-alchemist) | Fortune Alchemist | Slot — Fantasy (Alchemy) |
 | [`goal-spin`](./goal-spin)           | Goal Spin       | Slot — Football (Classic) |
 | [`gold-gnome`](./gold-gnome)         | Gold Gnome      | Slot — Mining (Gold) |
+| [`inventor-gnome`](./inventor-gnome) | Inventor Gnome  | Slot — Steampunk Workshop |
 | [`jester-gems`](./jester-gems)       | Jester Gems     | Slot — Jester (Gems) |
 | [`quantum-goal`](./quantum-goal)     | Quantum Goal    | Slot — Football (Futuristic) |
 | [`race-rush`](./race-rush)           | Race Rush       | Slot — Racing |
